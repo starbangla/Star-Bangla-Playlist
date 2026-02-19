@@ -3,43 +3,43 @@
 
 ## --- ১ম BANGLADESH ---
 
-#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png"group-title="Bangladesh", B TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png"group-title="Bangladesh", B TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-3 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Bangladesh",BTV World HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png"group-title="Bangladesh",BTV World HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-4 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Bangladesh",BTV Chattogram
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png"group-title="Bangladesh",BTV Chattogram
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-5 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Bangladesh",Sangsad Television
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png"group-title="Bangladesh",Sangsad Television
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"group-title="Bangladesh", Maasranga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"group-title="Bangladesh",Maasranga
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=BfWX076M3_iSttnwh00waQ&expires=1728493686&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-7 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png"group-title="Bangladesh", Movie Bangla
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png"group-title="Bangladesh",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh",The Tv
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",Ekushey Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-10 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png"group-title="Bangladesh",Mohona TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Nan Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh",Nan Tv
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Biswas Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh",Biswas Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-14 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png"group-title="Bangladesh",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
